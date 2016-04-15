@@ -1,0 +1,97 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "wAlEAPY82ntkDuhFVwc/wWoK+1Y=",
+			"path": "github.com/docker/docker/pkg/term",
+			"revision": "c327d9d99b333932465d09d3cb8caecb5d317280",
+			"revisionTime": "2016-04-10T20:33:55Z"
+		},
+		{
+			"checksumSHA1": "xSKySr4cVNZCsc/0k3uMUuRaL1Q=",
+			"path": "github.com/docker/machine/libmachine/drivers",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "NVjQaFD0VVfKmH9rTNb1jFWI3K0=",
+			"path": "github.com/docker/machine/libmachine/drivers/plugin",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "b8+XOiGM8cJfXtW2CPckuF7vdSw=",
+			"path": "github.com/docker/machine/libmachine/drivers/plugin/localbinary",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "aNUSlxuNQUgc2BL+iHrQXnAVJRI=",
+			"path": "github.com/docker/machine/libmachine/drivers/rpc",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "hd3E1bmir0wHixGBJoeD3i7+NEw=",
+			"path": "github.com/docker/machine/libmachine/log",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "0efWaczqh4cNdtQQUfpJPLuEHyY=",
+			"path": "github.com/docker/machine/libmachine/mcnflag",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "T4jxYafdISj5k5LqWFHEwshIoAg=",
+			"path": "github.com/docker/machine/libmachine/mcnutils",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "6RDaIOxT8o7ZxFBMqBpbR7sf+70=",
+			"path": "github.com/docker/machine/libmachine/ssh",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "wL/DIMDNPNkTuBBMmmTla7++cHg=",
+			"path": "github.com/docker/machine/libmachine/state",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "p2TpnGGtYqviBr30OZJPib7Nn+Y=",
+			"path": "github.com/docker/machine/libmachine/version",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "NRktK93FdWz649WST2dzD6fsDsU=",
+			"path": "github.com/docker/machine/version",
+			"revision": "d6c595f85ee644582e75e1bb9f26c72bd4c26b5f",
+			"revisionTime": "2016-04-08T02:56:46Z"
+		},
+		{
+			"checksumSHA1": "66aAbQ27rVp0aDXe+J+4RNTb6Rc=",
+			"path": "github.com/jdextraze/go-vpsie",
+			"revision": "ba017553bf16095f0197b7b35d0d45c4f3e2ca31",
+			"revisionTime": "2016-04-03T20:50:47Z"
+		},
+		{
+			"checksumSHA1": "F+IWo4eUUVqVhpm2qEIbLQm+ugM=",
+			"path": "golang.org/x/crypto/ssh",
+			"revision": "aedad9a179ec1ea11b7064c57cbc6dc30d7724ec",
+			"revisionTime": "2015-07-28T17:55:38Z"
+		},
+		{
+			"checksumSHA1": "bA2gANkJBx2Br/p5GKYdhyGo3Pg=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "aedad9a179ec1ea11b7064c57cbc6dc30d7724ec",
+			"revisionTime": "2015-07-28T17:55:38Z"
+		}
+	],
+	"rootPath": "github.com/jdextraze/docker-machine-driver-vpsie"
+}
